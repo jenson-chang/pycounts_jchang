@@ -2,10 +2,12 @@
 
 Calculate word counts in a text file!
 
-## Installation
+## Installation (From TestPyPI)
 
 ```bash
-pip install pycounts_chang
+pip install --index-url https://test.pypi.org/simple/ \
+  --extra-index-url https://pypi.org/simple \
+  pycounts_jchang
 ```
 
 ## Usage
