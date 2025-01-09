@@ -1,1 +1,1 @@
-from pycounts_jchang import pycounts_jchang
+from pycounts_jchang import pycounts
